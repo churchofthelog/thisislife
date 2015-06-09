@@ -1,2 +1,2 @@
-# thelogligion
-## **A project by the Centre for Cognitive Research**
+# The Log Religion
+## *A project by the Centre for Metacognitive Research*
